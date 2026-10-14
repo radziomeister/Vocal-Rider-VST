@@ -1,0 +1,8 @@
+# Build output
+build/
+installer/work/
+*.pkg
+
+# macOS / local tooling
+.DS_Store
+.claude/
